@@ -2,7 +2,7 @@
 
 	# Description
 
-		Starting with chapter five, I will be uploading my progression through the assignments that are given in the Python Crash Course A Hands-On, Project-Based Introduction To Programming book. 
+		Starting with chapter five, I will be uploading my progression through the assignments that are given in the Python Crash Course A Hands-On, Project-Based Introduction To Programming book written by Eric Matthes. 
 
 	The reason I started at chapter five is due to a limited schedule as of right now, and can not go back and format the other chapters better. I hope this repository can help others learn valuable
 
