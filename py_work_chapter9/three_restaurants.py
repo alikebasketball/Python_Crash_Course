@@ -25,10 +25,10 @@ class Restaurant:
         """
         print(f'The restaurant {self.restaurant_name} is open!')
         
-first_instance = Restaurant('Hello Place', 'Chicken Tenders')
-second_instance = Restaurant('The Good Place', 'Chicken Tenders')
-third_instance = Restaurant('The Happy Place', 'Chicken Tenders')
+# first_instance = Restaurant('Hello Place', 'Chicken Tenders')
+# second_instance = Restaurant('The Good Place', 'Chicken Tenders')
+# third_instance = Restaurant('The Happy Place', 'Chicken Tenders')
 
-first_instance.describe_restaurant()
-second_instance.describe_restaurant()
-third_instance.describe_restaurant()
+# first_instance.describe_restaurant()
+# second_instance.describe_restaurant()
+# third_instance.describe_restaurant()
