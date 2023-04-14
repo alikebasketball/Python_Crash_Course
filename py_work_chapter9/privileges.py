@@ -65,7 +65,7 @@ class Admin(User):
         
         self.privileges_xxx = Privileges(first_name)
 
-test_one = Admin('Eric', 'Holland', 22, 99, 99)
-test_one.greet_user()
-test_one.describe_user()
-test_one.privileges_xxx.show_admin_privileges()
+# test_one = Admin('Eric', 'Holland', 22, 99, 99)
+# test_one.greet_user()
+# test_one.describe_user()
+# test_one.privileges_xxx.show_admin_privileges()
